@@ -1,0 +1,13 @@
+.myphoto {
+  display: grid;
+
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+p {
+  display: inline-block;
+  margin-right: 75%;
+}
